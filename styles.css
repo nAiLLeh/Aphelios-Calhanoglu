@@ -1,0 +1,23 @@
+body {
+    background-color: black; /* Sayfanın arka plan rengi siyah */
+    color: purple; /* Yazı rengi mor */
+    font-family: Arial, sans-serif; /* Yazı tipi */
+    text-align: center; /* Yazıları ortala */
+    margin: 0; /* Varsayılan margin'i sıfırla */
+}
+
+.container {
+    margin: 0; /* Kenar boşluğu yok */
+}
+
+.image {
+    width: 100%; /* Resimlerin genişliğini tam sayfa yap */
+    height: auto; /* Yükseklik oranını koru */
+}
+
+.merhaba {
+    background-color: black; /* Yazının arka plan rengi siyah */
+    margin: 20px 0; /* Yazının üstünde ve altında boşluk */
+    font-size: 24px; /* Yazı boyutu */
+    padding: 10px; /* Yazının etrafında boşluk */
+}
