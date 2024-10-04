@@ -1,2 +1,2 @@
 # Aphelios-Calhanoglu
-haktan aphelios main
+dosyayı indirip index.html yi açın
